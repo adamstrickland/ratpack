@@ -1,4 +1,3 @@
-moleculesoftware.com
-====================
+# RatPack
 
-the website
+## It's like Sinatra and a couple of friends
