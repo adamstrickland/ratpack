@@ -1,7 +1,7 @@
 require 'sinatra/base'
 require 'sinatra/reloader'
 
-class MoleculeSoftwareDotCom < Sinatra::Base
+class RatPack < Sinatra::Base
 	get '/' do
 		redirect '/index.html'
 	end
